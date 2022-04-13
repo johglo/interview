@@ -16,6 +16,7 @@ multiples of the number five print "Buzz".  For numbers which are multiples of b
 three and five print "FizzBuzz".
 
 Those numbers in sequence would look like this:
+```
     1
     2
     Fizz
@@ -30,6 +31,7 @@ Those numbers in sequence would look like this:
     98
     Fizz
     Buzz
+```
 
 # Code Review
 
